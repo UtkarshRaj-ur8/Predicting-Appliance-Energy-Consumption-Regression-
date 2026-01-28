@@ -1,4 +1,4 @@
-# Predicting-Appliance-Energy-Consumption-Regression-
+# Predicting-Appliance-Energy-Consumption-Regression
 # Overview
 We developed a robust Machine Learning pipeline to predict energy consumption in households based on environmental sensors (temperature, humidity) and temporal patterns. This project aims to solve a critical efficiency problem: How can we anticipate energy loads to lower costs for consumers and optimize grid management for providers?
 By analyzing over 19,000 data points, we moved beyond simple intuition to data-driven forecasting, identifying key drivers of high energy usage.
